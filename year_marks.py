@@ -9,7 +9,7 @@ from sys import exit
 
 print('Программа используется в целях получния данных с СУШ НИШ Палодара.')
 print('Ваши даннные скрипт ни куда не отправляет.')
-print('Исходный код: https://github.com/arynyklas/SMS-PVL-NIS/blob/master/year_marks.py')
+print('Исходный код: https://github.com/arynyklas/SMS-PVL-NIS/')
 print()
 
 

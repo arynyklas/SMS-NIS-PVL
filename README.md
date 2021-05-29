@@ -5,11 +5,22 @@ This is a simple SMS NIS (PVL) parser.
 
 ## Development setup
 
+Created for using in Python 3+
+
+On Linux-based systems:
 ```sh
 python3 -m pip install -r requirements.txt
 ```
 ```sh
 python3 main.py
+```
+
+On Windows:
+```sh
+python -m pip install -r requirements.txt
+```
+```sh
+python main.py
 ```
 
 ## Release History
