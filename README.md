@@ -32,7 +32,7 @@ python main.py
 
 Aryn Yklas – [@arynyklas](https://t.me/arynyklas) – arynyklas@gmail.com
 
-Distributed under the GPL-3.0 license. See ``LICENSE`` for more information.
+Distributed under the MIT license. See ``LICENSE`` for more information.
 
 [https://github.com/arynyklas/](https://github.com/arynyklas/)
 
